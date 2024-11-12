@@ -1,2 +1,3 @@
 # Practice1
-Learning to use GitHub
+Learning to use GitHub and git
+
